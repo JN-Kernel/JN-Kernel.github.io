@@ -1,11 +1,11 @@
 ---
 title: 404 Not Found
 date: 2019-05-05 01:57:51
+layout: false
 toc: false
 comments: false
 permalink: /404
 ---
-
 <!DOCTYPE HTML>
 <html>
 <head>
@@ -15,8 +15,7 @@ permalink: /404
   <meta name="robots" content="index,follow"/>
 </head>
 <body>
-
-<script type="text/javascript" src="http://www.qq.com/404/search_children.js" charset="utf-8" homePageUrl="/ " homePageName="回到我的主页"></script>
+<script type="text/javascript" src="//qzonestyle.gtimg.cn/qzone/hybrid/app/404/search_children.js" homePageName="返回首页" homePageUrl="/"></script>
 
 </body>
 </html>
